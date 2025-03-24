@@ -1,0 +1,10 @@
+.mainTitle {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  color: #ff5e1e;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  transition: color 250ms linear, transform 250ms linear;
+}
